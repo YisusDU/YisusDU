@@ -9,6 +9,8 @@
   /></a>
 </p>
 
+[![The code is the future!!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_1f47e&text=The%20code%20is%20the%20future%21%21)]
+
 - 🌱 I’m currently learning **AI, data science, cibersecurity, embedded systems,
 etc.**
 - 👯 I’m looking to collaborate on **small proyects with dev friends**
