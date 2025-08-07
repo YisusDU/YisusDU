@@ -19,10 +19,20 @@
 coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615&text=Everybody%20needs%20code%20%20and%20coffe)]
 
 <ul>
-  <li>🌱 I’m currently learning <strong>AI, data science, cybersecurity, embedded systems, etc.</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>small projects with dev friends</strong></li>
-  <li>🤝 I’m looking for help with <strong>beginners at programming</strong></li>
-  <li>💬 Ask me about <strong>React, TypeScript, Python, JavaScript</strong></li>
+  <li>
+    🌱 I’m currently learning
+    <strong>AI, data science, cybersecurity, embedded systems, etc.</strong>
+  </li>
+  <li>
+    👯 I’m looking to collaborate on
+    <strong>small projects with dev friends</strong>
+  </li>
+  <li>
+    🤝 I’m looking for help with <strong>beginners at programming</strong>
+  </li>
+  <li>
+    💬 Ask me about <strong>React, TypeScript, Python, JavaScript</strong>
+  </li>
   <li>📫 How to reach me <strong>yisusfdu@gmail.com</strong></li>
 </ul>
 
@@ -48,13 +58,13 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
   src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="25"
 /><b> Skills</b>
-<br>
+<br />
 
 <div align="left">
   <strong>Core Technologies</strong>:
   <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  />
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -95,8 +105,8 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
 
   <strong>Frontend Ecosystem</strong>:
   <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  />
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -165,8 +175,8 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
 
   <strong>Backend & Data</strong>:
   <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  />
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/django.svg"
@@ -195,8 +205,8 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
 
   <strong>Development Tools</strong>:
   <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/>
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -212,7 +222,6 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
       width="40"
       height="40"
     />
-  </a>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
@@ -236,15 +245,25 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 />
 
-![yisusdu's
-Stats](https://github-readme-stats.vercel.app/api?username=yisusdu&theme=react&show_icons=true&hide_border=true&count_private=true)
-![yisusdu's Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yisusdu&theme=react&show_icons=true&hide_border=true&layout=compact)
->.[Note] >
-<p>
-  You can check my detailed stats
-  <a href="https://profile-summary-for-github.com/user/YisusDU"
-    >- at this link -</a
-  >
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yisusdu&theme=react&show_icons=true&hide_border=true&count_private=true" 
+           alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yisusdu&theme=react&show_icons=true&hide_border=true&layout=compact" 
+           alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+>[!Note] 
+>You can check my detailed stats<a href="https://profile-summary-for-github.com/user/YisusDU">- at this link -</a>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example"
+  />
+</div>
