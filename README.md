@@ -28,7 +28,7 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
     <strong>small projects with dev friends</strong>
   </li>
   <li>
-    🤝 I’m looking for help with <strong>beginners at programming</strong>
+    🤝 I’m looking for help <strong>beginners at programming</strong>
   </li>
   <li>
     💬 Ask me about <strong>React, TypeScript, Python, JavaScript</strong>
