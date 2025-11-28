@@ -46,11 +46,6 @@ coffe](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47e_2615
       height="30"
       width="40"
   /></a>
-  <a href="mailto:yisusfdu@gmail.com" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail-yisus"
-  /></a>
 </div>
 
 ##
